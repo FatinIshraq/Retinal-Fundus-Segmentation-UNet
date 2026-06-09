@@ -1,0 +1,8 @@
+tensorflow>=2.8
+h5py
+numpy
+matplotlib
+opencv-python
+scikit-image
+scikit-learn
+Pillow
